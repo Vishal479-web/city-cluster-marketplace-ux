@@ -1,11 +1,17 @@
-## Low-Fidelity Wireframes (Desktop)
+## Microcopy Examples
 
-Key Screens:
-1. Intent selection screen (idea, prototype, production)
-2. City selection screen with limited options
-3. Engagement recommendation (cluster vs freelancer)
-4. Profile listing with trust signals
-5. Profile detail with cost & timeline ranges
+### City Selection
+“Choose the city where execution will happen. This helps us recommend locally available experts.”
 
-Wireframes focus on clarity, not visual polish.
-Final UI is implemented in Pixso.
+### Cluster vs Freelancer
+- Cluster: “Best for end-to-end execution with shared accountability”
+- Freelancer: “Best for focused, short-term expertise”
+
+### Trust Disclaimer
+“All professionals are identity-verified and screened for relevant hardware experience.”
+
+### Empty State
+“No matching teams found yet. Try adjusting your city or project stage.”
+
+### Error State
+“Something went wrong while loading profiles. Please retry.”
