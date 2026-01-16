@@ -30,7 +30,7 @@ This platform focuses on solving these challenges through **high-trust UX design
 ## 🖥️ Final UI Design (Clickable)
 
 👉 **View Interactive UI Prototype**  
-🔗 https://1117tq91000dfkzydjmm3fkqt0q5fa3g000.pixso.site/
+🔗 [https://1117tq91000dfkzydjmm3fkqt0q5fa3g000.pixso.site/](https://city-team-forge.lovable.app/#how-it-works)
 
 ---
 
